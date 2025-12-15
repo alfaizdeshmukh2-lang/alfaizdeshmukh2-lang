@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi 👋 I'm Alfaiz Deshmukh
 
-<!--
-**alfaizdeshmukh2-lang/alfaizdeshmukh2-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Graduate  
+🚀 DevOps & Cloud Enthusiast  
+☁ AWS | Linux | Git | Docker | CI/CD  | Kubernetes | Terraform | Ansible
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Linux & Shell Scripting
+- Git & GitHub
+- AWS (EC2, VPC, IAM)
+- Docker (Basics)
+- Networking Fundamentals
+
+---
+
+### 📌 Currently Learning
+- DevOps & Cloud
+- AWS Cloud Projects
+- CI/CD Pipelines
+- Networking
+
+---
+
+### 📫 Contact Me
+- 📧 Email: alfaizdeshmukh2@gmail.com  | Phone: +91-8625895066
+- 📍 Location: Mumbai, India
